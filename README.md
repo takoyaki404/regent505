@@ -6,241 +6,297 @@ Discord: [https://discord.gg/aEz7JK8EHJ](https://discord.gg/aEz7JK8EHJ)
 ---
 
 ## 🇺🇸 English
+
 ### Basic Policy
-- Participate in **Guild Raid / Guild War / CoW** every week. The more participants, the better the rewards for everyone.
+- Please participate in **Guild Raid / Guild War / CoW** every week. The more members participate, the better the rewards for everyone.
 - In Guild War, attack in the following order: **Bridge → Gate → Citadel**.
-- If possible, level up **Cornelius** and **Isaac**. They are useful in Guild Raids.
-- Note: Over-upgrading Cornelius, Isaac, or Martha may weaken them in Guild Raids. Check YouTube or guides before upgrading. 
-  Isaac: Do not increase Magic Defense, Physical Penetration, or the first Artifact. 
-  Cornelius: Do not increase Magic Defense, the blue skill, or the first Artifact. 
-  Martha: Keep her HP between 420K and 500K.
-- The strength of the Guild Raid boss is decided by voting. If no vote is submitted, the Guild Master will decide.
+- If possible, develop **Cornelius** and **Isaac**. They are very useful in Guild Raid.
+- **Warning:** Over-upgrading Cornelius, Isaac, or Martha may reduce their effectiveness in Guild Raid. Please check YouTube or a guide before upgrading them.
+- Do **not** upgrade Isaac's **Magic Defense**, **Physical Penetration**, or **First Artifact**.
+- Do **not** upgrade Cornelius's **Magic Defense**, **Second (Blue) Skill**, or **First Artifact**.
+- Keep Martha's HP between **420K and 500K**.
+- The Guild Raid boss difficulty is decided by voting. If there is no vote, the Guild Master will decide.
 - If you plan to spend money, doing so during events is the most efficient.
-- Gifts are distributed based on “Marks of Valor.” If marks are low, rewards are halved; if marks are high, rewards are doubled.
+- Gifts are distributed based on **Honor Seals**. If you have too few seals, your reward will be reduced by half. If you have many seals, your reward will be doubled.
 
 ### Adventure
-- Adventures can easily cause conflicts within the guild, so do not excessively blame members for unintentional mistakes.
+- Adventures can easily cause conflicts within the guild. Please do not blame others excessively for unintentional mistakes.
 - Always follow the **guild-designated route**.
-- If someone does not follow the route, show them the link to the guild route.
-- If they still do not follow the route, report to the Guild Master via private message including:
-  - The violator's name 
-  - Names of accompanying members 
-  - Whether you have already shown the route 
-- After 3 reports, the Guild Master will require improvement. If no improvement is seen, the member will be removed.
-- AFK during Adventures may be caused by bugs, so no penalty applies. 
-  However, intentional or repeated AFK is not allowed, and frequent cases will result in a warning.
+- If someone does not follow the route, first show them the guild route link.
+- If they still refuse to follow the route, send a private message to the Guild Master including:
+  - The name of the player.
+  - The names of the members who were with them.
+  - Whether you already showed them the route.
+- If the same player is reported three times, the Guild Master will request that they improve their behavior. If there is no improvement, they will be removed from the guild.
+- AFK during Adventure may be caused by a game bug and will not be penalized. However, intentional or repeated AFK is not allowed and will result in a warning if it happens frequently.
+
+### Arena & Grand Arena
+- Attacking members of the same guild in Arena or Grand Arena is prohibited.
+- If the attacked player reports the incident, the offender will receive up to three warnings from the Guild Master. If there is no improvement, they will be removed from the guild.
+- This rule does not apply if both players have agreed in advance to share daily ranking rewards or to compete for the #1 reward.
+- It also does not apply if the attack does not change either player's ranking.
+- If there are no other proposals or objections within two days, this rule will become official.
 
 ### Guild Management
 - Important matters are decided by voting. If you have a proposal, please submit it.
-- The Guild Master may request management support. If you want to help, join Discord and notify the Guild Master.
-- The Guild Master is elected by voting. You may also run as a candidate.
-- Elections are held if at least one month has passed since the previous election and candidates exist.
-- Current management support: **alikamoyballs → Responsible for Guild War and CoW management.**
-
+- The Guild Master may recruit members to help manage the guild. If you would like to help, please join the Discord server and inform the Guild Master.
+- The Guild Master is elected by vote. Any member may run as a candidate.
+- A new election may be held only if at least one month has passed since the previous election and there is at least one candidate.
+- Current management support:
+  - **alikamoyballs** → Guild War and CoW management.
+  
 ---
 
 ## 🇪🇸 Español
-### Política Básica
-- Participa cada semana en **Raid de Guild / Guerra de Guild / CoW**. Cuantos más participantes haya, mejores serán las recompensas para todos.
-- En la Guerra de Guild, ataca en el siguiente orden: **Puente → Puerta → Ciudadela**.
-- Si es posible, sube de nivel a **Cornelius** e **Isaac**. Son útiles en los Raids de Guild.
-- Nota: Mejorar en exceso a Cornelius, Isaac o Martha puede debilitarlos en los Raids de Guild. Consulta YouTube o guías antes de actualizar.  
-  Isaac: No aumentes Defensa Mágica, Penetración Física ni su primer Artefacto.  
-  Cornelius: No aumentes Defensa Mágica, su habilidad azul ni su primer Artefacto.  
-  Martha: Mantén su HP entre 420K y 500K.
-- La dificultad del jefe del Raid de Guild se decide por votación. Si no hay votación, el Maestro de Guild decidirá.
-- Si piensas gastar dinero, hacerlo durante los eventos es lo más eficiente.
-- Los regalos se distribuyen según las “Marcas de Valor”. Si tienes pocas marcas, las recompensas se reducen a la mitad; si tienes muchas, se duplican.
 
-### Aventura
-- Las aventuras pueden causar conflictos dentro del guild, así que no culpes excesivamente a los miembros por errores involuntarios.
-- Siempre sigue la **ruta designada por el guild**.
-- Si alguien no sigue la ruta, muéstrale el enlace de la ruta del guild.
-- Si aún así no sigue la ruta, informa al Maestro de Guild por mensaje privado incluyendo:
-  - Nombre del infractor  
-  - Nombres de los miembros acompañantes  
-  - Si ya se le mostró la ruta  
-- Tras 3 reportes, el Maestro de Guild pedirá mejoras. Si no se observan mejoras, el miembro será expulsado.
-- Estar AFK durante las aventuras puede deberse a errores, así que no hay penalización.  
-  Sin embargo, el AFK intencional o repetido no está permitido, y los casos frecuentes recibirán advertencias.
+### Reglas básicas
+- Participa cada semana en **Guild Raid / Guild War / CoW**. Cuantos más participantes haya, mejores serán las recompensas para todos los miembros del gremio.
+- En la Guild War, ataca en el siguiente orden: **Puente → Puerta → Fortaleza**.
+- Si es posible, desarrolla a **Cornelius** e **Isaac**. Son muy útiles en Guild Raid.
+- Atención: fortalecer demasiado a Cornelius, Isaac o Martha puede reducir su rendimiento en Guild Raid. Antes de mejorarlos, consulta YouTube o alguna guía.
+- No mejores la **Defensa Mágica**, la **Penetración Física** ni el **primer Artefacto** de Isaac.
+- No mejores la **Defensa Mágica**, la **segunda habilidad (azul)** ni el **primer Artefacto** de Cornelius.
+- Mantén los HP de Martha entre **420K y 500K**.
+- La dificultad del jefe del Guild Raid se decide por votación. Si no hay votación, la decisión la toma el Maestro del Gremio.
+- Si vas a gastar dinero en el juego, hacerlo durante los eventos es lo más eficiente.
+- Los regalos se distribuyen según los **Honor Seals (Sellos de Honor)**. Si tienes pocos sellos, la recompensa se reduce a la mitad; si tienes muchos, se duplica.
 
-### Gestión del Guild
-- Los asuntos importantes se deciden por votación. Si tienes una propuesta, envíala.
-- El Maestro de Guild puede solicitar soporte de gestión. Si quieres ayudar, únete a Discord y avisa al Maestro de Guild.
-- El Maestro de Guild se elige por votación. También puedes postularte como candidato.
-- Las elecciones se celebran si ha pasado al menos un mes desde la elección anterior y hay candidatos.
-- Soporte de gestión actual: **alikamoyballs → Responsable de la gestión de Guerra de Guild y CoW.**
+### Aventura (Adventure)
+- Las aventuras pueden provocar conflictos dentro del gremio. No culpes excesivamente a otros por errores involuntarios.
+- Sigue siempre la **ruta designada por el gremio**.
+- Si alguien no sigue la ruta, muéstrale primero el enlace de la ruta del gremio.
+- Si aun así no la sigue, envía un mensaje privado al Maestro del Gremio con la siguiente información:
+  - Nombre del infractor.
+  - Nombre de los miembros que estaban con él.
+  - Si ya se le mostró el enlace de la ruta.
+- Si un mismo jugador es reportado tres veces, el Maestro del Gremio le pedirá que corrija su comportamiento. Si no mejora, será expulsado del gremio.
+- Un AFK durante una aventura puede deberse a un error del juego y no será penalizado. Sin embargo, hacer AFK de forma intencionada y repetida no está permitido y podrá recibir una advertencia.
+
+### Arena y Gran Arena
+- Está prohibido atacar a miembros del mismo gremio en la Arena y en la Gran Arena.
+- Si el jugador atacado informa de la infracción, el infractor recibirá hasta tres advertencias del Maestro del Gremio. Si no corrige su comportamiento, será expulsado del gremio.
+- Esta regla no se aplica cuando ambos jugadores hayan acordado previamente compartir las recompensas diarias del ranking o competir por la recompensa del primer puesto.
+- Tampoco se aplica cuando el ataque no cambia la posición en la clasificación.
+- Si no hay nuevas propuestas ni objeciones en un plazo de dos días, esta regla se considerará aprobada.
+
+### Administración del gremio
+- Las decisiones importantes se toman mediante votación. Si tienes alguna propuesta, preséntala.
+- El Maestro del Gremio puede solicitar ayuda para la administración. Si deseas colaborar, únete al Discord e informa al Maestro del Gremio.
+- El Maestro del Gremio es elegido mediante votación. Cualquier miembro puede presentarse como candidato.
+- Se celebrará una nueva elección al menos un mes después de la anterior, siempre que haya candidatos.
+- Responsable actual de la administración:
+  - **alikamoyballs** → Gestión de Guild War y CoW.
 
 ---
 
 ## 🇫🇷 Français
-### Politique de Base
-- Participez chaque semaine à **Raid de Guilde / Guerre de Guilde / CoW**. Plus il y a de participants, meilleures sont les récompenses pour tous.
-- Lors des Guerres de Guilde, attaquez dans l’ordre suivant : **Pont → Porte → Citadelle**.
-- Si possible, faites évoluer **Cornelius** et **Isaac**. Ils sont utiles dans les Raids de Guilde.
-- Remarque : Suraméliorer Cornelius, Isaac ou Martha peut les affaiblir dans les Raids de Guilde. Consultez YouTube ou des guides avant de les améliorer.  
-  Isaac : Ne pas augmenter la Défense Magique, la Pénétration Physique ni le premier Artefact.  
-  Cornelius : Ne pas augmenter la Défense Magique, la compétence bleue ni le premier Artefact.  
-  Martha : Maintenez ses PV entre 420K et 500K.
-- La difficulté du boss du Raid de Guilde est décidée par vote. S’il n’y a pas de vote, le Maître de Guilde décidera.
-- Si vous comptez dépenser de l’argent, le faire pendant les événements est le plus efficace.
-- Les cadeaux sont distribués en fonction des « Marques de Valeur ». Si vous avez peu de marques, les récompenses sont réduites de moitié ; si vous en avez beaucoup, elles sont doublées.
 
-### Aventure
-- Les aventures peuvent facilement provoquer des conflits au sein de la guilde, ne blâmez donc pas excessivement les membres pour des erreurs involontaires.
-- Suivez toujours la **route désignée par la guilde**.
-- Si quelqu’un ne suit pas la route, montrez-lui le lien de la route de la guilde.
-- S’il ne suit toujours pas la route, signalez-le au Maître de Guilde par message privé en incluant :
-  - Nom du contrevenant  
-  - Noms des membres accompagnants  
-  - Si le lien de la route a déjà été montré  
-- Après 3 signalements, le Maître de Guilde exigera une amélioration. Si aucune amélioration n’est constatée, le membre sera expulsé.
-- L’AFK pendant les aventures peut être causé par des bugs, il n’y a donc pas de pénalité.  
-  Cependant, l’AFK intentionnel ou répété n’est pas autorisé et les cas fréquents recevront un avertissement.
+### Règles de base
+- Merci de participer chaque semaine au **Guild Raid / Guild War / CoW**. Plus il y a de participants, meilleures seront les récompenses pour toute la guilde.
+- Pendant la Guild War, attaquez dans l'ordre suivant : **Pont → Porte → Forteresse**.
+- Si possible, développez **Cornelius** et **Isaac**. Ils sont très utiles en Guild Raid.
+- Attention : renforcer excessivement Cornelius, Isaac ou Martha peut réduire leur efficacité en Guild Raid. Consultez YouTube ou un guide avant d'améliorer ces héros.
+- Pour Isaac, **n'améliorez pas** la **Défense magique**, la **Pénétration physique** ni le **premier Artéfact**.
+- Pour Cornelius, **n'améliorez pas** la **Défense magique**, la **deuxième compétence (bleue)** ni le **premier Artéfact**.
+- Les PV de Martha doivent rester entre **420K et 500K**.
+- La difficulté du boss du Guild Raid est décidée par vote. En l'absence de vote, le Maître de Guilde prend la décision.
+- Si vous effectuez des achats, il est plus rentable de le faire pendant les événements.
+- Les cadeaux sont distribués en fonction des **Honor Seals (Sceaux d'Honneur)**. Si vous en manquez, les récompenses sont réduites de moitié. Si vous en avez beaucoup, elles sont doublées.
 
-### Gestion de la Guilde
-- Les décisions importantes sont prises par vote. Si vous avez une proposition, veuillez la soumettre.
-- Le Maître de Guilde peut demander un soutien à la gestion. Si vous souhaitez aider, rejoignez Discord et informez le Maître de Guilde.
-- Le Maître de Guilde est élu par vote. Vous pouvez également vous présenter comme candidat.
-- Les élections ont lieu si au moins un mois s’est écoulé depuis la précédente élection et s’il existe des candidats.
-- Support actuel : **alikamoyballs → Gestion des Guerres de Guilde et CoW.**
+### Aventure (Adventure)
+- Les aventures peuvent facilement provoquer des conflits dans la guilde. Merci de ne pas blâmer excessivement les erreurs involontaires.
+- Suivez toujours **l'itinéraire défini par la guilde**.
+- Si un joueur ne suit pas l'itinéraire, montrez-lui d'abord le lien vers l'itinéraire de la guilde.
+- S'il continue à ne pas le respecter, envoyez un message privé au Maître de Guilde avec les informations suivantes :
+  - Nom du joueur concerné
+  - Nom des membres qui étaient avec lui
+  - Indiquez si vous lui avez déjà montré le lien de l'itinéraire
+- Si un même joueur est signalé trois fois, le Maître de Guilde lui demandera de corriger son comportement. En l'absence d'amélioration, il sera exclu de la guilde.
+- Un AFK pendant une aventure peut être causé par un bug du jeu et n'est donc pas sanctionné. En revanche, les AFK intentionnels et répétés ne sont pas autorisés et feront l'objet d'un avertissement.
+
+### Arène et Grande Arène
+- Il est interdit d'attaquer les membres de sa propre guilde en Arène ou en Grande Arène.
+- Si le joueur attaqué signale l'incident, le contrevenant recevra jusqu'à trois avertissements du Maître de Guilde. En cas d'absence d'amélioration, il sera exclu de la guilde.
+- Cette règle ne s'applique pas lorsque les deux joueurs se sont mis d'accord à l'avance pour partager les récompenses quotidiennes du classement ou pour obtenir la récompense de la première place.
+- Les attaques qui ne modifient pas le classement sont également exemptées.
+- En l'absence d'autres propositions ou d'opposition dans un délai de deux jours, cette règle sera considérée comme adoptée.
+
+### Gestion de la guilde
+- Les décisions importantes sont prises par vote. N'hésitez pas à proposer de nouvelles idées.
+- Le Maître de Guilde peut rechercher des assistants pour la gestion. Si vous souhaitez aider, rejoignez le Discord et informez le Maître de Guilde.
+- Le Maître de Guilde est élu par vote. Tout membre peut présenter sa candidature.
+- Une nouvelle élection peut être organisée au moins un mois après la précédente, à condition qu'il y ait un candidat.
+- Responsable actuel de la gestion :
+  - **alikamoyballs** → Gestion de la Guild War et du CoW.
 
 ---
 
 ## 🇩🇪 Deutsch
-### Grundprinzip
-- Nimm jede Woche an **Gildenraid / Gildenkrieg / CoW** teil. Je mehr Teilnehmer, desto besser sind die Belohnungen für alle.
-- Im Gildenkrieg in folgender Reihenfolge angreifen: **Brücke → Tor → Zitadelle**.
-- Wenn möglich, trainiere **Cornelius** und **Isaac**. Sie sind in Gildenraids nützlich.
-- Hinweis: Eine Überverstärkung von Cornelius, Isaac oder Martha kann sie in Gildenraids schwächen. Prüfe YouTube oder Guides vor dem Upgrade.  
-  Isaac: Nicht Magische Verteidigung, Physische Durchdringung oder erstes Artefakt erhöhen.  
-  Cornelius: Nicht Magische Verteidigung, blaue Fähigkeit oder erstes Artefakt erhöhen.  
-  Martha: HP zwischen 420K und 500K halten.
-- Die Stärke des Gildenraid-Bosses wird durch Abstimmung bestimmt. Gibt es keine Abstimmung, entscheidet der Gildenmeister.
-- Wenn du Geld ausgeben willst, ist die effizienteste Zeit während Events.
-- Geschenke werden basierend auf „Ehrenmarken“ verteilt. Bei wenigen Marken sind die Belohnungen halbiert; bei vielen Marken verdoppelt.
 
-### Abenteuer
-- Abenteuer können leicht Konflikte innerhalb der Gilde verursachen, daher keine übermäßige Schuldzuweisung für unbeabsichtigte Fehler.
-- Folge stets der **von der Gilde vorgegebenen Route**.
-- Wenn jemand die Route nicht einhält, zeige ihm den Link zur Gildenroute.
-- Wenn er immer noch nicht folgt, melde dies dem Gildenmeister per Privatnachricht, einschließlich:
-  - Name des Verstoßers  
-  - Namen der begleitenden Mitglieder  
-  - Ob die Route bereits gezeigt wurde  
-- Nach 3 Meldungen fordert der Gildenmeister Verbesserungen. Wenn keine Verbesserung erfolgt, wird das Mitglied entfernt.
-- AFK während Abenteuer kann durch Bugs verursacht werden, daher keine Strafe.  
-  Absichtliches oder wiederholtes AFK ist jedoch nicht erlaubt und häufiges AFK wird verwarnt.
+### Grundregeln
+- Bitte nimm jede Woche am **Guild Raid / Guild War / CoW** teil. Je mehr Mitglieder teilnehmen, desto besser sind die Belohnungen für alle.
+- Greife im Guild War in der folgenden Reihenfolge an: **Brücke → Tor → Festung**.
+- Wenn möglich, entwickle **Cornelius** und **Isaac**. Sie sind im Guild Raid sehr nützlich.
+- Achtung: Wenn Cornelius, Isaac oder Martha zu stark ausgebaut werden, können sie im Guild Raid weniger effektiv werden. Bitte sieh dir vor dem Aufwerten YouTube-Videos oder Guides an.
+- Erhöhe bei Isaac **nicht** die **Magieverteidigung**, **physische Durchdringung** und **das erste Artefakt**.
+- Erhöhe bei Cornelius **nicht** die **Magieverteidigung**, **die zweite (blaue) Fähigkeit** und **das erste Artefakt**.
+- Marthas HP sollten zwischen **420K und 500K** liegen.
+- Die Stärke des Guild-Raid-Bosses wird durch eine Abstimmung festgelegt. Falls keine Abstimmung stattfindet, entscheidet der Gildenmeister.
+- Wenn du Geld ausgibst, ist dies während Events am effizientesten.
+- Geschenke werden auf Grundlage der **Honor Seals (Ehrenabzeichen)** verteilt. Bei zu wenigen Abzeichen wird die Belohnung halbiert, bei vielen Abzeichen verdoppelt.
+
+### Abenteuer (Adventure)
+- Abenteuer führen leicht zu Konflikten innerhalb der Gilde. Bitte beschuldige andere nicht übermäßig für unbeabsichtigte Fehler.
+- Folge immer der **von der Gilde festgelegten Route**.
+- Falls jemand die Route nicht einhält, sende ihm zuerst den Link zur Gildenroute.
+- Wenn die Route trotzdem nicht eingehalten wird, sende dem Gildenmeister eine private Nachricht mit folgenden Informationen:
+  - Name des Regelverstoßes
+  - Namen der Mitglieder, die dabei waren
+  - Ob der Link zur Route bereits gezeigt wurde
+- Wenn ein Mitglied dreimal gemeldet wird, fordert der Gildenmeister eine Verhaltensänderung. Erfolgt keine Verbesserung, wird das Mitglied aus der Gilde ausgeschlossen.
+- AFK während eines Abenteuers kann durch einen Spielfehler verursacht werden und wird daher nicht bestraft. Absichtlich wiederholtes AFK ist jedoch nicht erlaubt und führt bei häufiger Wiederholung zu einer Verwarnung.
+
+### Arena und Grand Arena
+- Angriffe auf Mitglieder derselben Gilde in der Arena oder Grand Arena sind verboten.
+- Wenn der angegriffene Spieler den Vorfall meldet, erhält der Regelverstoß bis zu drei Verwarnungen vom Gildenmeister. Erfolgt keine Verbesserung, wird er aus der Gilde ausgeschlossen.
+- Ausnahmen gelten, wenn sich beide Spieler vorher darauf geeinigt haben, tägliche Ranglistenbelohnungen zu teilen oder um die Belohnung für Platz 1 zu spielen.
+- Ebenfalls ausgenommen sind Angriffe, bei denen sich die Platzierung nicht ändert.
+- Falls innerhalb von zwei Tagen keine anderen Vorschläge oder Einwände eingehen, wird diese Regel offiziell übernommen.
 
 ### Gildenverwaltung
-- Wichtige Entscheidungen werden durch Abstimmung getroffen. Wenn du Vorschläge hast, reiche sie ein.
-- Der Gildenmeister kann Management-Unterstützung anfordern. Wer helfen möchte, soll Discord beitreten und den Gildenmeister informieren.
-- Der Gildenmeister wird durch Abstimmung gewählt. Du kannst dich auch als Kandidat aufstellen.
-- Wahlen finden statt, wenn seit der letzten Wahl mindestens ein Monat vergangen ist und Kandidaten vorhanden sind.
-- Aktuelle Management-Unterstützung: **alikamoyballs → Verwaltung von Gildenkrieg und CoW.**
-
+- Wichtige Entscheidungen werden durch Abstimmungen getroffen. Vorschläge sind jederzeit willkommen.
+- Der Gildenmeister kann Unterstützung bei der Verwaltung suchen. Wer helfen möchte, tritt bitte dem Discord bei und informiert den Gildenmeister.
+- Der Gildenmeister wird durch eine Abstimmung gewählt. Jedes Mitglied kann kandidieren.
+- Eine neue Wahl findet frühestens einen Monat nach der letzten Wahl statt und nur, wenn es Kandidaten gibt.
+- Aktueller Verwaltungshelfer:
+  - **alikamoyballs** → Verwaltung von Guild War und CoW.
 
 ---
-## 🇷🇺 Русский
-### Основная политика
-- Участвуйте каждую неделю в **Гильдейском рейде / Гильдейской войне / CoW**. Чем больше участников, тем лучше награды для всех.
-- В Гильдейской войне атакуйте в следующем порядке: **Мост → Ворота → Цитадель**.
-- По возможности прокачивайте **Корнелиуса** и **Айзека**. Они полезны в рейдах гильдии.
-- Внимание: чрезмерное улучшение Корнелиуса, Айзека или Марты может ослабить их в рейдах. Перед улучшением проверяйте YouTube или гайды.  
-  Айзек: Не повышайте Магическую защиту, Физическое пробивание и первый Артефакт.  
-  Корнелиус: Не повышайте Магическую защиту, синий скилл и первый Артефакт.  
-  Марта: Держите HP между 420K и 500K.
-- Сила босса гильдейского рейда определяется голосованием. Если голосов нет, решение принимает Гильдмастер.
-- Если вы планируете тратить деньги, лучше делать это во время событий.
-- Подарки распределяются на основе «Знаков Чести». При недостатке знаков награды уменьшаются вдвое, при избытке — удваиваются.
 
-### Приключения
-- Приключения могут вызывать конфликты в гильдии, поэтому не обвиняйте слишком строго за случайные ошибки.
-- Всегда следуйте **указанному маршруту гильдии**.
-- Если кто-то не следует маршруту, покажите ему ссылку на маршрут.
-- Если он всё равно не следует маршруту, сообщите Гильдмастеру в личном сообщении с указанием:
-  - Имя нарушителя  
-  - Имена сопровождающих членов  
-  - Показали ли вы уже маршрут  
-- После 3 сообщений Гильдмастер потребует улучшений. Если улучшений нет, участник будет удалён.
-- AFK во время приключений может быть вызван багом, поэтому штрафа нет.  
-  Однако намеренный или повторяющийся AFK не допускается, частые случаи получат предупреждение.
+## 🇷🇺 Русский
+
+### Основные правила
+- Каждую неделю участвуйте в **Guild Raid / Guild War / CoW**. Чем больше участников, тем лучше награды для всех членов гильдии.
+- В Guild War атакуйте в следующем порядке: **Мост → Ворота → Крепость**.
+- По возможности развивайте **Корнелиуса (Cornelius)** и **Айзека (Isaac)**. Они очень полезны в Guild Raid.
+- Внимание: чрезмерное усиление Корнелиуса, Айзека или Марты может снизить их эффективность в Guild Raid. Перед улучшением ознакомьтесь с видео на YouTube или руководствами.
+- Не улучшайте у Айзека **магическую защиту**, **физическое пробивание** и **первый артефакт**.
+- Не улучшайте у Корнелиуса **магическую защиту**, **второй (синий) навык** и **первый артефакт**.
+- HP Марты должно быть в пределах **420K–500K**.
+- Сложность босса Guild Raid определяется голосованием. Если голосования нет, решение принимает глава гильдии.
+- Если вы планируете донатить, наиболее выгодно делать это во время игровых событий.
+- Подарки распределяются на основе **Honor Seal (Знаков Почёта)**. При недостатке знаков награда уменьшается вдвое, при большом количестве — удваивается.
+
+### Приключения (Adventure)
+- Приключения часто становятся причиной конфликтов внутри гильдии, поэтому не обвиняйте других слишком строго за непреднамеренные ошибки.
+- Обязательно следуйте **маршруту, установленному гильдией**.
+- Если кто-то не следует маршруту, сначала отправьте ему ссылку на маршрут гильдии.
+- Если после этого игрок всё равно не соблюдает маршрут, отправьте главе гильдии личное сообщение с информацией:
+  - Имя нарушителя.
+  - Имена игроков, которые были с ним.
+  - Было ли ему уже отправлено руководство по маршруту.
+- Если на одного и того же игрока поступит три жалобы, глава гильдии потребует исправить поведение. При отсутствии изменений игрок будет исключён из гильдии.
+- AFK во время Adventure может быть вызван ошибкой игры, поэтому за это наказание не применяется. Однако намеренное и регулярное AFK запрещено. При повторении игрок получит предупреждение.
+
+### Арена и Гранд Арена
+- Запрещается атаковать участников своей гильдии на Арене и Гранд Арене.
+- Если атакованный игрок сообщит о нарушении, нарушитель получит до трёх предупреждений от главы гильдии. При отсутствии изменений он будет исключён из гильдии.
+- Исключением являются случаи, когда игроки заранее договорились делить ежедневные награды рейтинга или бороться за награду за первое место.
+- Также исключением являются атаки, которые не изменяют позиции в рейтинге.
+- Если в течение двух дней не поступит других предложений или возражений, правило считается принятым.
 
 ### Управление гильдией
-- Важные вопросы решаются голосованием. Если у вас есть предложение, отправьте его.
-- Гильдмастер может запросить помощь в управлении. Желающие помочь должны присоединиться к Discord и уведомить Гильдмастера.
-- Гильдмастер избирается голосованием. Вы также можете выдвинуть свою кандидатуру.
-- Выборы проводятся, если с предыдущих прошло не менее месяца и есть кандидаты.
-- Текущая поддержка управления: **alikamoyballs → управление Гильдейской войной и CoW.**
+- Все важные вопросы решаются голосованием. Если у вас есть предложения, пожалуйста, выносите их на обсуждение.
+- Глава гильдии может искать помощников для управления. Если вы хотите помочь, присоединитесь к Discord и сообщите об этом главе гильдии.
+- Глава гильдии избирается голосованием. Любой желающий может выдвинуть свою кандидатуру.
+- Новые выборы проводятся не ранее чем через один месяц после предыдущих и только при наличии кандидатов.
+- Текущий помощник по управлению:
+  - **alikamoyballs** → управление Guild War и CoW.
 
 ---
 
-## 🇨🇳 中文
-### 基本方针
-- 每周请参加 **公会突袭 / 公会战争 / CoW**。参与人数越多，每个人的奖励越好。
-- 在公会战争中，请按以下顺序攻击：**桥 → 门 → 城堡**。
-- 如果可能，请培养 **科内利乌斯** 和 **艾萨克**。他们在公会突袭中非常有用。
-- 注意：过度强化科内利乌斯、艾萨克或玛莎可能会在公会突袭中削弱他们。升级前请查看 YouTube 或指南。  
-  艾萨克：不要提升魔法防御、物理穿透和第一神器。  
-  科内利乌斯：不要提升魔法防御、蓝色技能和第一神器。  
-  玛莎：保持 HP 在 420K 到 500K 之间。
-- 公会突袭 Boss 的强度由投票决定。如果没有投票，由公会会长决定。
-- 如果打算充值，活动期间是最高效的时间。
-- 礼物根据“荣誉印记”分配。印记不足时奖励减半，印记多时奖励翻倍。
+## 🇨🇳 简体中文
 
-### 冒险
-- 冒险容易引发公会内冲突，请不要过度责怪无意的错误。
-- 必须遵循 **公会指定路线**。
-- 如果有人不遵守路线，请展示公会路线链接。
-- 如果仍然不遵守，请通过私信向公会会长报告，包括：
-  - 违规者姓名  
-  - 陪同成员姓名  
-  - 是否已展示路线  
-- 被举报 3 次后，公会会长将要求改进。如果没有改进，成员将被除名。
-- 冒险中 AFK 可能是由于 Bug，因此不处罚。  
-  但故意或反复 AFK 不被允许，频繁发生将受到警告。
+### 基本方针
+- 请每周参加 **公会远征（Guild Raid）/ 公会战（Guild War）/ CoW**。参与人数越多，全体成员获得的奖励越好。
+- 在公会战中，请按照以下顺序攻击：**桥 → 大门 → 堡垒**。
+- 如果可以的话，请培养 **Cornelius（科尼利厄斯）** 和 **Isaac（艾萨克）**，他们在公会远征中非常有用。
+- 注意：如果过度强化 Cornelius、Isaac 或 Martha，可能会导致他们在公会远征中的表现变差。升级前请先查看 YouTube 或相关攻略。
+- Isaac 不要提升 **魔法防御**、**物理穿透** 和 **第一神器**。
+- Cornelius 不要提升 **魔法防御**、**第二技能（蓝色技能）** 和 **第一神器**。
+- Martha 的 HP 请保持在 **420K～500K** 之间。
+- 公会远征 Boss 的难度由投票决定。如果没有投票，则由公会会长决定。
+- 如果要充值，活动期间充值是效率最高的。
+- 礼物按照 **荣誉徽章（Honor Seal）** 分配。徽章不足时奖励减半，徽章较多时奖励翻倍。
+
+### 冒险（Adventure）
+- 冒险容易引发公会成员之间的冲突，因此请不要过度责怪无意中的失误。
+- 请务必按照 **公会指定路线** 行动。
+- 如果有人没有按照路线行动，请先向其发送公会路线链接。
+- 如果仍然不遵守路线，请私信公会会长，并提供以下信息：
+  - 违规玩家姓名
+  - 与其同行的成员姓名
+  - 是否已经向其发送过路线链接
+- 如果同一成员被举报三次，公会会长将要求其改进；若仍无改善，将被移出公会。
+- 冒险中的 AFK 可能是游戏 Bug，因此不会受到处罚。但故意反复 AFK 是不允许的，如多次发生将受到警告。
+
+### 竞技场（Arena）与大竞技场（Grand Arena）
+- 禁止攻击同一公会成员的竞技场和大竞技场队伍。
+- 如果被攻击者提出举报，违规者将收到公会会长最多三次警告；若仍未改正，将被移出公会。
+- 如果双方事先同意共享每日排名奖励或为了获得第1名奖励，则不受此规则限制。
+- 攻击后排名不会发生变化的情况，也属于例外。
+- 如果在两天内没有其他提案或反对意见，此规则将正式生效。
 
 ### 公会管理
-- 重要事项通过投票决定。如果有提案，请提交。
-- 公会会长可能需要管理支持。希望协助者请加入 Discord 并通知公会会长。
-- 公会会长通过投票选出。也可以作为候选人参选。
-- 选举在上次选举至少一个月后且有候选人时进行。
-- 当前管理支持：**alikamoyballs → 负责公会战争和 CoW 管理。**
+- 重要事项通过投票决定。如有提案，请积极提出。
+- 公会会长可能会招募管理协助人员。有意协助者请加入 Discord，并通知公会会长。
+- 公会会长通过投票选举产生，任何成员都可以竞选。
+- 距离上次选举至少一个月且有候选人时，将举行新的选举。
+- 当前管理协助人员：
+  - **alikamoyballs** → 负责公会战及 CoW 管理。
 
 
 ---
 
 ## 🇰🇷 한국어
+
 ### 기본 방침
-- 매주 **길드 레이드 / 길드 전쟁 / CoW** 에 참여하세요. 참여자가 많을수록 모든 사람의 보상이 좋아집니다.
-- 길드 전쟁에서는 다음 순서로 공격하세요: **다리 → 문 → 성채**.
-- 가능하다면 **코넬리우스**와 **아이작**을 육성하세요. 길드 레이드에서 유용합니다.
-- 주의: 코넬리우스, 아이작, 마르사를 과도하게 강화하면 길드 레이드에서 약화될 수 있습니다. 업그레이드 전에 YouTube 또는 가이드를 확인하세요.  
-  아이작: 마법 방어, 물리 관통, 첫 번째 아티팩트를 올리지 마세요.  
-  코넬리우스: 마법 방어, 파란 스킬, 첫 번째 아티팩트를 올리지 마세요.  
-  마르사: HP를 420K에서 500K로 유지하세요.
+- 매주 **길드 레이드 / 길드전 / CoW** 에 반드시 참여해 주세요. 참여자가 많을수록 모든 길드원이 더 좋은 보상을 받을 수 있습니다.
+- 길드전에서는 반드시 **다리 → 문 → 성채** 순서로 공격해 주세요.
+- 가능하다면 **코넬리우스(Cornelius)** 와 **아이작(Isaac)** 을 육성해 주세요. 길드 레이드에서 매우 유용합니다.
+- 주의: 코넬리우스, 아이작, 마사를 과도하게 강화하면 길드 레이드에서 오히려 성능이 떨어질 수 있습니다. 강화하기 전에 YouTube나 가이드를 확인해 주세요.
+- 아이작은 **마법 방어력**, **물리 관통**, **첫 번째 아티팩트**를 올리지 마세요.
+- 코넬리우스는 **마법 방어력**, **두 번째(파란색) 스킬**, **첫 번째 아티팩트**를 올리지 마세요.
+- 마사의 HP는 **420K~500K** 사이를 유지하세요.
 - 길드 레이드 보스의 강도는 투표로 결정됩니다. 투표가 없으면 길드 마스터가 결정합니다.
-- 과금할 경우 이벤트 기간 중이 가장 효율적입니다.
-- 선물은 "명예 인장"에 따라 분배됩니다. 인장이 부족하면 보상이 절반이 되고, 많으면 보상이 2배가 됩니다.
+- 과금을 한다면 이벤트 기간에 하는 것이 가장 효율적입니다.
+- 선물은 **명예의 인장(Honor Seal)** 을 기준으로 배분됩니다. 인장이 부족하면 보상이 절반으로 줄어들고, 인장이 많으면 보상이 2배가 됩니다.
 
-### 모험
-- 모험은 길드 내 충돌을 유발할 수 있으므로 의도치 않은 실수에 대해 과도하게 비난하지 마세요.
-- 반드시 **길드 지정 경로**를 따라 행동하세요.
-- 누군가 경로를 따르지 않는 경우 길드 경로 링크를 보여주세요.
-- 그래도 경로를 따르지 않는다면, 다음 내용을 포함하여 길드 마스터에게 개인 메시지로 보고하세요:
-  - 위반자의 이름  
-  - 동행한 멤버의 이름  
-  - 이미 경로를 보여주었는지 여부  
-- 3회 보고된 경우 길드 마스터가 개선을 요구합니다. 개선이 보이지 않으면 멤버는 제명됩니다.
-- 모험 중 AFK는 버그일 가능성이 있으므로 페널티가 없습니다.  
-  그러나 의도적 반복 AFK는 허용되지 않으며, 빈번할 경우 경고를 받습니다.
+### 모험 (Adventure)
+- 모험은 길드 내 갈등이 발생하기 쉬우므로, 의도하지 않은 실수에 대해 과도하게 비난하지 마세요.
+- 반드시 **길드에서 지정한 경로**를 따라 진행해 주세요.
+- 누군가 지정된 경로를 따르지 않는 경우, 먼저 길드 경로 링크를 보여 주세요.
+- 그래도 경로를 따르지 않는다면, 아래 내용을 포함하여 길드 마스터에게 개인 메시지로 보고해 주세요.
+  - 위반자의 이름
+  - 함께 플레이한 멤버의 이름
+  - 이미 경로를 보여주었는지 여부
+- 동일한 사람이 3회 신고되면 길드 마스터가 개선을 요구합니다. 개선되지 않을 경우 길드에서 추방됩니다.
+- 모험 중 AFK는 버그일 가능성이 있으므로 페널티를 부여하지 않습니다. 그러나 의도적으로 반복하는 AFK는 허용되지 않으며, 반복될 경우 경고를 받습니다.
 
-### 길드 관리
-- 중요 사항은 투표로 결정됩니다. 제안이 있으면 제출하세요.
-- 길드 마스터는 관리 지원을 요청할 수 있습니다. 지원을 희망하면 Discord에 참여하고 길드 마스터에게 알리세요.
-- 길드 마스터는 투표로 선출됩니다. 후보로 출마할 수도 있습니다.
-- 선거는 이전 선거 이후 최소 1개월이 지나고 후보자가 있는 경우에 진행됩니다.
-- 현재 관리 지원 담당: **alikamoyballs → 길드 전쟁 및 CoW 관리.**
+### 아레나 및 그랜드 아레나
+- 같은 길드원에 대한 아레나 및 그랜드 아레나 공격을 금지합니다.
+- 공격당한 플레이어의 신고가 접수되면, 위반자는 길드 마스터로부터 최대 3회의 경고를 받습니다. 이후에도 개선되지 않으면 길드에서 추방됩니다.
+- 일일 랭킹 보상을 나누거나 1위 보상을 위한 사전 합의가 있는 경우에는 예외로 합니다.
+- 공격해도 순위가 변하지 않는 경우에도 예외로 합니다.
+- 특별한 반대 의견이나 다른 제안이 2일 이내에 없으면 새로운 규칙으로 확정됩니다.
+
+### 길드 운영
+- 중요한 사항은 투표를 통해 결정됩니다. 제안이 있으면 언제든 제출해 주세요.
+- 길드 마스터는 운영 지원을 요청할 수 있습니다. 지원을 원하는 사람은 Discord에 참가한 후 길드 마스터에게 알려 주세요.
+- 길드 마스터는 투표를 통해 선출됩니다. 후보자로 출마할 수도 있습니다.
+- 선거는 이전 선거로부터 최소 1개월이 지나고 후보자가 있을 경우 실시됩니다.
+- 현재 운영 지원 담당:
+  - **alikamoyballs** → 길드전 및 CoW 관리
 
 ---
 
@@ -267,6 +323,13 @@ Discord: [https://discord.gg/aEz7JK8EHJ](https://discord.gg/aEz7JK8EHJ)
   - すでにルートを見せたかどうか
 - 3回報告された場合、ギルドマスターは改善を要求します。改善が見られない場合、メンバーは除名されます。
 - アドベンチャー中の AFK はバグの可能性があるため、ペナルティはありません。しかし、意図的に繰り返す AFK は認められず、頻発した場合は警告されます。
+
+### アリーナとグランドアリーナ
+- 同一ギルド内でのアリーナおよびグランドアリーナでの攻撃を禁止する。
+- 攻撃されたプレイヤーの連絡により、違反者には3度ギルドマスターから告知がいく。改善しない場合はギルドから除名される。
+- デイリーランキング報酬を分け合うことや1位報酬を目的として事前同意がある場合はこれの例外とする。
+- また、順位が変わらない場合の攻撃もこれを例外とする。
+- 特に別の提案や反対票が2日以内にない場合は新しいルールにします。
 
 ### ギルド管理
 - 重要事項は投票によって決定されます。提案があれば提出してください。
